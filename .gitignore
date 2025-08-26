@@ -1,0 +1,10 @@
+# Tệp và thư mục của PyCharm
+.idea/
+*.iml
+*.pyc
+
+# Các tệp tạm thời hoặc cache
+__pycache__/
+
+# Môi trường ảo (virtual environment)
+venv/
